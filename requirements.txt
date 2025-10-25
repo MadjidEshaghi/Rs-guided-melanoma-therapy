@@ -1,0 +1,14 @@
+# Core scientific libraries
+numpy
+networkx
+
+# For data handling and analysis
+pandas
+
+# For plotting and visualization (used in notebooks)
+matplotlib
+seaborn
+
+# For running notebooks
+jupyterlab
+notebook
